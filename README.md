@@ -116,4 +116,4 @@ Redis 中 Value 的数据类型包含多种，如 String、List、Hash、Set、S
 
 通读书籍《Redis 实战》
 
-![Redis 实战读书笔记](https://github.com/daiDai-study/Learning-Redis/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Redis%E5%AE%9E%E6%88%98/Redis%E5%AE%9E%E6%88%98-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
+[Redis 实战读书笔记](https://github.com/daiDai-study/Learning-Redis/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Redis%E5%AE%9E%E6%88%98/Redis%E5%AE%9E%E6%88%98-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
