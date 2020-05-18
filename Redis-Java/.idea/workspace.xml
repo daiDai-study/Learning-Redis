@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4783aac8-2341-45bc-9930-f300fbb3a66e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/eventdriven/HomeworkEventListen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/eventdriven/HomeworkEventObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/eventdriven/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/eventdriven/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/eventdriven/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/mouseevent/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/mouseevent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/mouseevent/MyMouseListen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/obsevermode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/obsevermode/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEvent/src/main/java/org/daistudy/javaevent/obsevermode/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/daistudy/redisjava/redisinaction/Chapter001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/daistudy/redisjava/redisinaction/Chapter001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../读书笔记/Redis实战/Redis实战-读书笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../读书笔记/Redis实战/Redis实战-读书笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +88,8 @@
       <workItem from="1588906601815" duration="5877000" />
       <workItem from="1588929375102" duration="6000" />
       <workItem from="1588934098395" duration="599000" />
+      <workItem from="1589425234282" duration="50000" />
+      <workItem from="1589794542024" duration="4474000" />
     </task>
     <servers />
   </component>
@@ -107,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
